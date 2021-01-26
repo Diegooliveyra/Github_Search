@@ -1,6 +1,7 @@
 <br />
 <p align="center">
-    <img src="./.github/gif.gif" alt="Logo" width="600">
+    <img src="./.github/logo-horizontal.svg" alt="Logo" width="300">
+    <br />
 
   <h3 align="center">Profile component by <a href="https://github.com/Diegooliveyra">Diego Oliveira</a></h3>
  <br />
@@ -78,7 +79,7 @@ Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou marcando nosso perfil @devchallenge!<br>
 
-Desafio criado por  <a href="https://www.linkedin.com/in/diego-de-oliveira-brito/">Lorena</a> :)
+Desafio criado por  <a href="https://www.linkedin.com/in/diego-de-oliveira-brito/">Diego Oliveira</a> :)
 
 # Comunidade DevChallenge
 Site: https://www.devchallenge.com.br/ <br>
