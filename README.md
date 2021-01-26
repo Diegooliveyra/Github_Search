@@ -37,8 +37,8 @@ Seu desafio é criar um site de busca de usuarios e repositorios do github atrav
 
 ## Requisitos:
 - A pagina inicial precisa ter um campo de busca, a busca devera ser feita ao clicar no botão de busca ou ao clicar no tecla Enter<br>
-- A resposta da página deverá exibir as informaçes do usuario, tal como nome, followers , following, stars, empresa e localização<br>
-- A resposta da página deverá exibir as informaçes dos repositorios, tais como o nome do repositório, descrição do projeto, star, forks e um link que direciona para o repositorio no Github<br>
+- A resposta da página deverá exibir as informaçes do usuario, tais como nome, followers , following, stars, empresa e localização<br>
+- A resposta da página deverá exibir as informaçes dos repositórios, tais como o nome do repositório, descrição do projeto, stars, forks e um link que direciona para o repositório no Github<br>
 
 
 # Techs: 
