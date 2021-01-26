@@ -56,6 +56,11 @@ Seu desafio é criar um site de busca de usuarios e repositorios do github atrav
 
 # Dicas
 
+## Documentação API Github (em pt-BR):
+
+<a href="https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api">Github API</a>
+
+
 ## Cores:
 Background: #232324<br>
 Black: #201F1F<br>
